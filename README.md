@@ -19,10 +19,9 @@ A complex data project combining relational (Oracle SQL) and NoSQL (MongoDB) dat
 | Folder         | Contents                                     |
 |----------------|----------------------------------------------|
 | `docs/`        | Project documentation and ER diagrams        |
-| `data/`        | Raw and processed data files                 |
-| `sql/`         | All SQL scripts (DDL, DML, queries, etc.)    |
-| `nosql/`       | MongoDB structure, JSON data, and queries    |
-| `diagrams/`    | Visuals: ER model, connection diagrams       |
+| `data/`        | Processed data files                 |
+| `sql/`         | SQL scripts   |
+| `mongoDB/`       | MongoDB structure, JSON data, and queries    |
 
 ## 📊 Sample Business Questions
 
@@ -37,6 +36,16 @@ A complex data project combining relational (Oracle SQL) and NoSQL (MongoDB) dat
 - Wrote triggers and procedures for dynamic email assignment
 - Converted relational structure to NoSQL and optimized for query speed
 - Created indexes and benchmarked query plans
+
+## 👤 My Work
+
+I developed the entire project independently:
+- Designed schema (ER model, foreign keys, indexing)
+- Imported and cleaned real-world datasets
+- Created triggers, sequences, procedures
+- Performed SQL optimization
+- Converted the relational schema into embedded MongoDB collections
+- Wrote 10+ SQL and NoSQL queries
 
 ## 🧠 What I’d do differently today
 
